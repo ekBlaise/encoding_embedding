@@ -1,0 +1,14 @@
+ignore files such as .env, folder env, image, .vscode, .venv
+# Ignore .env files
+.env
+# Ignore env folders
+env/
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+# Ignore .vscode folder
+.vscode/
+# Ignore .venv folder
+.venv/
